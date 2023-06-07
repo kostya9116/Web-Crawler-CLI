@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Yarn error logs
+yarn-error.log
+
+# Yarn debug logs
+yarn-debug.log*
+
+results.json
